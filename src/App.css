@@ -1,0 +1,29 @@
+/* .App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+.container{
+  display: flex;
+  background-color: #252d3d;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  position: fixed;
+  align-items: center;
+  overflow: hidden;
+}
+
+.calc{
+  height: 50%; 
+  width: 40%;
+  border-radius: 50px;
+  background-color: lightsteelblue;
+
+}
+
